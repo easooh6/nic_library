@@ -1,0 +1,32 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "status": "Available"
+    },
+    {
+        "title": "Clockwork orange",
+        "author": "Andrey Girskiy",
+        "year": 1980,
+        "status": "Available"
+    },
+    {
+        "title": "aboba",
+        "author": "girskiy andrey",
+        "year": 2006,
+        "status": "Available"
+    },
+    {
+        "title": "1984",
+        "author": "Orwel",
+        "year": 1949,
+        "status": "Available"
+    },
+    {
+        "title": "aboba",
+        "author": "andrey",
+        "year": 2006,
+        "status": "Available"
+    }
+]
